@@ -1,0 +1,23 @@
+/*p{color:blueviolet;
+    text-decoration: ;
+    text-align: center;
+    font-size: 18pt;
+
+}*/
+
+a{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    color:bisque;
+}
+
+.box {
+    color: pink;
+    text-decoration: ;
+    text-align: justify;
+    font-size: 12pt;
+
+}
+
+
